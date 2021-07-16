@@ -16,6 +16,6 @@ Una volta effettuata la consegna il rider invia una notifica al ristorante che
 a sua volta la inoltra al server. Tutte le comunicazioni avvengono tramite il server.
 
 ## Architettura 
-<img src=
+<img src="https://github.com/GiosueOrefice/Project_RetiDiCalcolatori/blob/main/Architettura.jpg?raw=true">
 
 Si utilizzi il linguaggio C, Java o altro linguaggio su piattaforma UNIX utilizzando i socket per la comunicazione tra processi.
